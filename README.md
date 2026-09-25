@@ -1,2 +1,5 @@
 # HomeEnterprise
-Getting started with the Windows Server 2025 machine requires that the IP address is set to static (aids proper communication to the internet) and a hostname issued to the machine - (images/hostname_staticip.png)
+Getting started with the Windows Server 2025 machine requires that the IP address is set to static (aids proper communication to the internet) and a hostname issued to the machine - 
+<p align="center">
+  <img src="images/hostname_staticip.png" alt="Description" width="700"/>
+</p>
