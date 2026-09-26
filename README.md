@@ -1,3 +1,4 @@
+
 # HomeEnterprise
 Getting started with the Windows Server 2025 machine requires that the IP address is set to static (aids proper communication to the internet) and a hostname issued to the machine - 
 <p align="center">
@@ -5,5 +6,4 @@ Getting started with the Windows Server 2025 machine requires that the IP addres
 </p>
 
 Install Active Directory Domain Service(AD DS) and DNS roles
-<video src="images/ActiveDirectoryDC.mp4" controls width="700">
-</video>
+https://github.com/user-attachments/assets/1ea7f0bf-59bd-400f-986f-c0ac49ca4f95
