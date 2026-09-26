@@ -8,11 +8,12 @@ Getting started with the Windows Server 2025 machine requires that the IP addres
   <img src="images/hostname_staticip.png" alt="Description" width="230"/>
 </p>
 
-Install Active Directory Domain Service(AD DS) and DNS roles
+##Install Active Directory Domain Service(AD DS) and DNS roles
+This phase involves installing the Active Directory domain services (AD DS) role, promoting the server to a Domain Controller (DC) and creating a new domain.
 
 However, before we jump into the installation sequence, it is good to understand certain concept and how they working within the HomeEnterprise network.
 
-## What is Active Directory(AD)?
+#### What is Active Directory(AD)?
 Active Directory is a directory service provided by Microsoft that organises and secure network resources, It allows administrators to:
 
 __Centralize management__: AD reduces the complexity of manaaging a network by storing and controlling user data in one place.
@@ -30,7 +31,7 @@ __Flexibility__: It organizes resources into domains, organizational units(OUs),
 __Centralised Control__: Administrators can enforce consistent security settings, passwords policies and more across the network.
  
 
-## What is a Domain Controller (DC)
+#### What is a Domain Controller (DC)
 A Domain controller (DC) refers to a server that runs the Active Directory Domain Service (AD DS) roles and serves as the backbone of your network's identity and access management system.
 
 The DC is responsible for the following:
@@ -43,7 +44,7 @@ __Directory Management__: This refers to the maintance of a hierarchical databas
 
 __Policy Enforcement__: Applies security settings, user restrictions, and resource access rules through Group Policy.
 
-## Why Promotes a Server to a Domain Controller?
+#### Why Promotes a Server to a Domain Controller?
  Promoting a server to a Domain Controller is a pivotal step because:
 
   It transforms the server into the central authoriy for identity and access management.
