@@ -60,7 +60,7 @@ The video clip below illustrates how the Active Directory Domain Services (AD DS
 <table>
   <tr>
     <td>
-      <img src="images/screenshot.jpg" alt="Project Screenshot" width="400"/>
+      <img src="images/nslookup.png" alt="Project Screenshot" width="400"/>
     </td>
     <td>
       <a href="[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://github.com/user-attachments/assets/1ea7f0bf-59bd-400f-986f-c0ac49ca4f95)">
