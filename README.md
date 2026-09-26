@@ -63,7 +63,7 @@ The video clip below illustrates how the Active Directory Domain Services (AD DS
       <img src="images/nslookup.png" alt="Project Screenshot" width="400"/>
     </td>
     <td>
-      <a href="[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://github.com/user-attachments/assets/1ea7f0bf-59bd-400f-986f-c0ac49ca4f95)">
+      <a href="[https://github.com/user-attachments/assets/1ea7f0bf-59bd-400f-986f-c0ac49ca4f95]">
         ▶ Watch Demo Video
       </a>
     </td>
