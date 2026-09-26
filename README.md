@@ -60,14 +60,13 @@ The video clip below illustrates how the Active Directory Domain Services (AD DS
 <table>
   <tr>
     <td>
-      <img src="images/nslookup.png" alt="Project Screenshot" width="400"/>
+      <img src="images/nslookup.png" alt="Project Screenshot" width="500"/>
     </td>
     <td>
-      <a href="[https://github.com/user-attachments/assets/1ea7f0bf-59bd-400f-986f-c0ac49ca4f95]">
+      <a href="https://github.com/user-attachments/assets/1ea7f0bf-59bd-400f-986f-c0ac49ca4f95">
         ▶ Watch Demo Video
       </a>
     </td>
   </tr>
 </table>
  
-https://github.com/user-attachments/assets/1ea7f0bf-59bd-400f-986f-c0ac49ca4f95
