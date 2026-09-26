@@ -3,6 +3,7 @@ Getting started with the Windows Server 2025 machine requires that the IP addres
 <p align="center">
   <img src="images/hostname_staticip.png" alt="Description" width="230"/>
 </p>
+
 Install Active Directory Domain Service(AD DS) and DNS roles
 <video src="images/ActiveDirectoryDC.mp4" controls width="700">
 </video>
