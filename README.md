@@ -8,7 +8,8 @@ Getting started with the Windows Server 2025 machine requires that the IP addres
   <img src="images/hostname_staticip.png" alt="Description" width="230"/>
 </p>
 
-##Install Active Directory Domain Service(AD DS) and DNS roles
+## Install Active Directory Domain Service(AD DS) and DNS roles
+
 This phase involves installing the Active Directory domain services (AD DS) role, promoting the server to a Domain Controller (DC) and creating a new domain.
 
 However, before we jump into the installation sequence, it is good to understand certain concept and how they working within the HomeEnterprise network.
@@ -51,6 +52,22 @@ __Policy Enforcement__: Applies security settings, user restrictions, and resour
   It allows an administrator to create a domain, a logical grouping of resources, that provides a secure and centralized environment for managing users and devices.
   It lays the foundation for advance features like DNS integration, Group Policy and Active Directory Federation Services (AD FS).
 
-  As a side note, creating a new domain helps to establish the first domain in a forest. A forest refers to the top-level strucuture in Active Directory, which can include multiple domains connected by trust relationships.
+As a side note, creating a new domain helps to establish the first domain in a forest. A forest refers to the top-level strucuture in Active Directory, which can include multiple domains connected by trust relationships.
+
+The video clip below illustrates how the Active Directory Domain Services (AD DS) role, promoting the server to a Domain Controller(DC) and creating a new domain was carried out. 
+
+
+<table>
+  <tr>
+    <td>
+      <img src="images/screenshot.jpg" alt="Project Screenshot" width="400"/>
+    </td>
+    <td>
+      <a href="[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://github.com/user-attachments/assets/1ea7f0bf-59bd-400f-986f-c0ac49ca4f95)">
+        ▶ Watch Demo Video
+      </a>
+    </td>
+  </tr>
+</table>
  
 https://github.com/user-attachments/assets/1ea7f0bf-59bd-400f-986f-c0ac49ca4f95
